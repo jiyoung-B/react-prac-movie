@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/react-prac-movie/static/js/main.c808c67c.js",
+    "main.css": "/react-prac-movie/static/css/main.b8c4a262.css",
+    "main.js": "/react-prac-movie/static/js/main.33cc9fbd.js",
     "index.html": "/react-prac-movie/index.html",
-    "main.c808c67c.js.map": "/react-prac-movie/static/js/main.c808c67c.js.map"
+    "main.b8c4a262.css.map": "/react-prac-movie/static/css/main.b8c4a262.css.map",
+    "main.33cc9fbd.js.map": "/react-prac-movie/static/js/main.33cc9fbd.js.map"
   },
   "entrypoints": [
-    "static/js/main.c808c67c.js"
+    "static/css/main.b8c4a262.css",
+    "static/js/main.33cc9fbd.js"
   ]
 }
